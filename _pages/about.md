@@ -18,11 +18,12 @@ redirect_from:
 * 2026.03-, 南开大学软件学院, 副教授
 * 2020.10-2026.03, 中国科学院信息工程研究所, 助理研究员
 * 2018.07-2020.10, 中国科学院信息工程研究所, 研究实习员
----
-* 2026.03-, College of Software, Nankai University, Associate Professor
-* 2020.10-2026.03, Institute of Information Engineering, Chinese Academy of Sciences, Assistant Research Fellow
-* 2018.07-2020.10, Institute of Information Engineering, Chinese Academy of Sciences, Junior Research Fellow
----
+
+
+% * 2026.03-, College of Software, Nankai University, Associate Professor %
+% * 2020.10-2026.03, Institute of Information Engineering, Chinese Academy of Sciences, Assistant Research Fellow %
+% * 2018.07-2020.10, Institute of Information Engineering, Chinese Academy of Sciences, Junior Research Fellow %
+
 
 教育背景（Education）
 ======
