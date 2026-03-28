@@ -9,9 +9,9 @@ redirect_from:
 
 Research Interests 
 ======
-* Open-world Perception: Object detection and recognition in open-ended/unconstrained environments.
-* Adaptive Intelligence: Continual Learning and lifelong adaptation for evolving data streams.
-* Multimodal Understanding: Multimodal Sentiment Analysis and cross-modal content interpretation.
+* **Open-world Perception**: Object detection and recognition in open-ended/unconstrained environments.
+* **Adaptive Intelligence**: Continual Learning and lifelong adaptation for evolving data streams.
+* **Multimodal Understanding**: Multimodal Sentiment Analysis and cross-modal content interpretation.
 
 Work experience
 ======
