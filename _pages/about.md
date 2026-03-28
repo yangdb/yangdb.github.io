@@ -47,7 +47,7 @@ redirect_from:
 * Xinye Yang, **Dongbao Yang***, Yu Zhou, Youhui Guo, and Weiping Wang. “Mask-guided stamp erasure for real document image.” ICME, 2023. (CCF-B)
 * Wei Li, Dezhao Luo, and **Dongbao Yang***, and Weiping Wang. “Large language model for action anticipation.” ICANN, 2024. (CCF-C)
 * Hongyu Li, Yifei Zhang, and **Dongbao Yang***. “Cross-architecture relational consistency for point cloud self-supervised learning.” ICTAI, 2023. (CCF-C)
-* Yanping Ma, **Dongbao Yang***, Hongtao Xie*, and Jian Yin. “Supervised deep hashing for image content security.” MTA, 2019. (CCF-C)
+* Yanping Ma, **Dongbao Yang***, Hongtao Xie, and Jian Yin. “Supervised deep hashing for image content security.” MTA, 2019. (CCF-C)
 * Nannan Sun, **Dongbao Yang***, Shancheng Fang, Hongtao Xie. “Deep convolutional nets for pulmonary nodule detection and classification.” KSEM, 2018. (CCF-C)
 * Jiahao Lyu, Wei Wang, **Dongbao Yang**, Jinwen Zhong, Yu Zhou. “Arbitrary Reading Order Scene Text Spotter with Local Semantics Guidance.” AAAI, 2025. (CCF-A)
 * Fangmin Zhao, Weichao Zeng, Zhenhang Li, **Dongbao Yang**, Binbin Li, Xiaojun Bi, Yu Zhou. “Uni-DocDiff: A Unified Document Restoration Model Based on Diffusion.” ACM MM, 2025. (CCF-A)
