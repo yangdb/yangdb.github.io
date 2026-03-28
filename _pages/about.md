@@ -7,24 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-Research Interests 
+研究方向（Research Interests）
 ======
 * **Open-world Perception**: Object detection and recognition in open-ended/unconstrained environments.
 * **Adaptive Intelligence**: Continual Learning and lifelong adaptation for evolving data streams.
 * **Multimodal Understanding**: Multimodal Sentiment Analysis and cross-modal content interpretation.
 
-Work experience
+工作经历（Work experience）
 ======
-* 2026.03- College of Software, Nankai University
-* 2018.07-2026.03 Institute of Information Engineering, Chinese Academy of Sciences
+* 2026.03-, 南开大学软件学院, 副教授
+* 2020.10-2026.03, 中国科学院信息工程研究所, 助理研究员
+* 2018.07-2020.10, 中国科学院信息工程研究所, 研究实习员
+---
+* 2026.03-, College of Software, Nankai University, Associate Professor
+* 2020.10-2026.03, Institute of Information Engineering, Chinese Academy of Sciences, Assistant Research Fellow
+* 2018.07-2020.10, Institute of Information Engineering, Chinese Academy of Sciences, Junior Research Fellow
+---
 
-Education
+教育背景（Education）
 ======
+2020.09-2024.01，中国科学院大学，工学博士，网络空间安全专业
+2015.09-2018.06，山东大学，工学硕士，计算机科学与技术专业
+2011.09-2015.06，山东大学，工学学士，数字媒体技术专业
+
+---
 * Ph.D in University of Chinese Academy of Sciences
 * M.S. in Shandong University
 * B.S. in Shandong University
+---
 
-Publications
+学术论文（Publications）
 ======
 * **Dongbao Yang**, Yu Zhou, Xiaopeng Hong, Aoting Zhang, and Weiping Wang. “One-Shot Replay: Boosting incremental object detection via retrospecting one object.” AAAI, 2023. (CCF-A, Oral)
 * **Dongbao Yang**, Yu Zhou, Xiaopeng Hong, Aoting Zhang, Xin Wei, Linchengxi Zeng, Zhi Qiao, and Weiping Wang. “Pseudo object replay and mining for incremental object detection.” ACM MM, 2023. (CCF-A, Oral)
@@ -60,21 +72,29 @@ Publications
 * Yudi Chen, Yu Zhou, **Dongbao Yang**, and Weiping Wang. “Constrained relation network for character detection in scene images.” PRICAI, 2019. (CCF-C)
 * Xugong Qin, Yu Zhou, **Dongbao Yang**, and Weiping Wang. “Curved text detection in natural scene images with semi-and weakly-supervised learning.” ICDAR, 2019. (CCF-C)
 
-Projects
+科研项目（Projects）
 ======
-* 1)2025.01-2027.12，国家自然科学基金青年基金，增量目标检测，主持，30万元
-* 2)2022.12-2025.11，科技部重点研发计划子课题，视听内容理解，主持，260万元
-* 3)2025.11-2026.11，企业横向项目，多模态检索增强生成，主持，30万元
-* 4)2025.12-2026.12，企业横向项目，面向监控视频的多模态信息融合摘要生成，主持，18万元
+* 1)2025.01-2027.12，国家自然科学基金青年基金，增量目标检测，主持
+* 2)2022.12-2025.11，国家重点研发计划子课题，视听内容理解，主持
+* 3)2025.11-2026.11，企业横向项目，多模态检索增强生成，主持
+* 4)2025.12-2026.12，企业横向项目，面向监控视频的多模态信息融合摘要生成，主持
+* 5)2024.01-2027.12，国家自然科学基金面上项目，视觉与语义融合的场景文字检测与识别技术研究，参与
+* 6)2022.07-2024.06，企业横向项目，印章识别及通用文字识别，参与
+* 7)2022.01-2023.12，国家广电总局项目，场景文字检测识别引擎，参与
+* 8)2021.04-2022.10，企业横向项目，关于印章处理和小字体识别的OCR研究，参与
+* 9)2019.11-2022.10，国家重点研发计划子课题，多媒体数据快速识别技术研究，参与 
+* 10)2018.09-2019.08, 多媒体数据分析系统，工程建设项目，参与
+* 11)2017.10-2020.09，国家重点研发计划子课题，实时数据检测分析系统，参与
 
 
-Competitions
+
+竞赛获奖（Competitions）
 ======
 * 1)中国人工智能·多媒体信息识别技术竞赛，手写/印刷文本OCR两项高校组冠军，2019。
 * 2)ICDAR ReCTS 2019（中文招牌文字识别），“字符识别”、“端到端识别”高校组第三名，2019。
 
 
-Patents
+发明专利（Patents）
 ======
 * 1)基于伪目标重放与挖掘的增量目标检测方法及装置，2023，受理号：202311216027.X
 * 2)基于单目标重放的增量目标检测方法及装置，2023，受理号：202310102438.X
@@ -88,7 +108,7 @@ Patents
 * 10)基于完形填空任务的视频自监督学习方法, 2019，专利号：ZL 2019 1 1348018.X
 * 11)一种基于深度学习的图像哈希编码方法, 2017, 受理号：201710182659.7
 
-Academic Services
+学术服务（Academic Services）
 ======
 * Reviewer: CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI ....
 * Area Chair: ICME
