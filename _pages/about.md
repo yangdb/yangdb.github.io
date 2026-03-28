@@ -37,7 +37,7 @@ redirect_from:
 * Daiqing Wu, **Dongbao Yang***, Sicheng Zhao, Can Ma, and Yu Zhou. “An Empirical Study on Configuring In-Context Learning Demonstrations for Unleashing MLLMs’ Sentimental Perception Capability.” ICML, 2025. (CCF-A)
 * Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Miao Shang, Yu Zhou. “DCA: Dividing and conquering amnesia in incremental object detection.” AAAI, 2025. (CCF-A)
 * Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Yu Zhou. “Specifying what you know or not for multi-label class-incremental learning.” AAAI, 2025. (CCF-A)
-* Daiqing Wu, **Dongbao Yang***,  Huawen Shen, Can Ma, and Yu Zhou*. “Robust multimodal sentiment analysis of image-text pairs by distribution-based feature recovery and fusion.” PR, 2025. (中科院SCI一区)
+* Daiqing Wu, **Dongbao Yang***,  Huawen Shen, Can Ma, and Yu Zhou. “Robust multimodal sentiment analysis of image-text pairs by distribution-based feature recovery and fusion.” PR, 2025. (中科院SCI一区)
 * Daiqing Wu, **Dongbao Yang***, Yu Zhou, and Can Ma. “Bridging visual affective gap: Borrowing textual knowledge by learning from noisy image-text pairs.” ACM MM, 2024. (CCF-A, Oral)
 * Daiqing Wu, **Dongbao Yang***, Yu Zhou, and Can Ma. “Robust multimodal sentiment analysis of image-text pairs by distribution-based feature recovery and fusion.” ACM MM, 2024. (CCF-A)
 * Hongtao Xie, **Dongbao Yang***, Nannan Sun, Zhineng Chen, and Yongdong Zhang. “Automated pulmonary nodule detection in CT images using deep convolutional neural networks.” PR, 2019. (中科院SCI一区, CCF-B)
