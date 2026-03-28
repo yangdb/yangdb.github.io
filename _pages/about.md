@@ -9,9 +9,9 @@ redirect_from:
 
 研究方向（Research Interests）
 ======
-* **Open-world Perception**: Object detection and recognition in open-ended/unconstrained environments.
-* **Adaptive Intelligence**: Continual Learning and lifelong adaptation for evolving data streams.
-* **Multimodal Understanding**: Multimodal Sentiment Analysis and cross-modal content interpretation.
+* **开放世界感知（Open-world Perception）**: Object detection and recognition in open-ended/unconstrained environments.
+* **自适应智能（Adaptive Intelligence）**: Continual Learning and lifelong adaptation for evolving data streams.
+* **多模态理解（Multimodal Understanding）**: Multimodal Sentiment Analysis and cross-modal content interpretation.
 
 工作经历（Work experience）
 ======
@@ -20,16 +20,12 @@ redirect_from:
 * 2018.07-2020.10, 中国科学院信息工程研究所, 研究实习员
 
 
-<!-- * 2026.03-, College of Software, Nankai University, Associate Professor  * 2020.10-2026.03, Institute of Information Engineering, Chinese Academy of Sciences, Assistant Research Fellow  * 2018.07-2020.10, Institute of Information Engineering, Chinese Academy of Sciences, Junior Research Fellow --!>
-
-
 教育背景（Education）
 ======
 2020.09-2024.01，中国科学院大学，工学博士，网络空间安全专业
 2015.09-2018.06，山东大学，工学硕士，计算机科学与技术专业
 2011.09-2015.06，山东大学，工学学士，数字媒体技术专业
 
-<!--Ph.D in University of Chinese Academy of Sciences * M.S. in Shandong University * B.S. in Shandong University--!>
 
 学术论文（Publications）
 ======
