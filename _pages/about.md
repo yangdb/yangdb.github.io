@@ -49,7 +49,7 @@ redirect_from:
 * Hongyu Li, Yifei Zhang, and **Dongbao Yang***. “Cross-architecture relational consistency for point cloud self-supervised learning.” ICTAI, 2023. (CCF-C)
 * Yanping Ma, **Dongbao Yang***, Hongtao Xie*, and Jian Yin. “Supervised deep hashing for image content security.” MTA, 2019. (CCF-C)
 * Nannan Sun, **Dongbao Yang***, Shancheng Fang, Hongtao Xie. “Deep convolutional nets for pulmonary nodule detection and classification.” KSEM, 2018. (CCF-C)
-* Jiahao Lyu, Wei Wang, **Dongbao Yang,** Jinwen Zhong, Yu Zhou. “Arbitrary Reading Order Scene Text Spotter with Local Semantics Guidance.” AAAI, 2025. (CCF-A)
+* Jiahao Lyu, Wei Wang, **Dongbao Yang**, Jinwen Zhong, Yu Zhou. “Arbitrary Reading Order Scene Text Spotter with Local Semantics Guidance.” AAAI, 2025. (CCF-A)
 * Fangmin Zhao, Weichao Zeng, Zhenhang Li, **Dongbao Yang**, Binbin Li, Xiaojun Bi, Yu Zhou. “Uni-DocDiff: A Unified Document Restoration Model Based on Diffusion.” ACM MM, 2025. (CCF-A)
 * Xiaomeng Yang, Zhi Qiao, Jin Wei, **Dongbao Yang**, and Yu Zhou. “Masked and permuted implicit context learning for scene text recognition.” IEEE SPL, 2024. (CCF-C)
 * Weichao Zeng, Yan Shu, Zhenhang Li, **Dongbao Yang**, and Yu Zhou. “TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control.” NeurIPS, 2024. (CCF-A)
@@ -58,7 +58,7 @@ redirect_from:
 * Zhenhang Li, Yan Shu, Weichao Zeng, Dongbao Yang, and Yu Zhou. “First creating backgrounds then rendering texts: A new paradigm for visual text blending.” ECAI, 2024. (CCF-B)
 * **Dongbao Yang**, Hongtao Xie, Jian Yin, Yizhi Liu, Chenggang Yan. “Supervised deep quantization for efficient image search.” ICMEW, 2017.
 * Yudi Chen, Wei Wang, Yu Zhou, Fei Yang, **Dongbao Yang**, and Weiping Wang. “Self-training for domain adaptive scene text detection.” ICPR, 2021. (CCF-C)
-* Zhi Qiao, Yu Zhou, Dongbao Yang, Yucan Zhou, and Weiping Wang. “SEED: Semantics enhanced encoder-decoder framework for scene text recognition.” CVPR, 2020. (CCF-A)
+* Zhi Qiao, Yu Zhou, **Dongbao Yang**, Yucan Zhou, and Weiping Wang. “SEED: Semantics enhanced encoder-decoder framework for scene text recognition.” CVPR, 2020. (CCF-A)
 * Dezhao Luo, Chang Liu, Yu Zhou, **Dongbao Yang**, Can Ma, Qixiang Ye, and Weiping Wang. “Video cloze procedure for self-supervised spatio-temporal learning.” AAAI, 2020. (CCF-A, Oral)
 * Yudi Chen, Yu Zhou, **Dongbao Yang**, and Weiping Wang. “Constrained relation network for character detection in scene images.” PRICAI, 2019. (CCF-C)
 * Xugong Qin, Yu Zhou, **Dongbao Yang**, and Weiping Wang. “Curved text detection in natural scene images with semi-and weakly-supervised learning.” ICDAR, 2019. (CCF-C)
