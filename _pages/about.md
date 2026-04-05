@@ -7,27 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-研究方向（Research Interests）
+研究方向
 ======
 * **开放世界感知（Open-world Perception）**: Object detection and recognition in open-ended/unconstrained environments.
 * **自适应智能（Adaptive Intelligence）**: Continual Learning and lifelong adaptation for evolving data streams.
 * **多模态理解（Multimodal Understanding）**: Multimodal Sentiment Analysis and cross-modal content interpretation.
 
-工作经历（Work experience）
+工作经历
 ======
 * 2026.03-, 南开大学软件学院, 副教授
 * 2020.10-2026.03, 中国科学院信息工程研究所, 助理研究员
 * 2018.07-2020.10, 中国科学院信息工程研究所, 研究实习员
 
 
-教育背景（Education）
+教育背景
 ======
 * 2020.09-2024.01，中国科学院大学，工学博士，网络空间安全专业
 * 2015.09-2018.06，山东大学，工学硕士，计算机科学与技术专业
 * 2011.09-2015.06，山东大学，工学学士，数字媒体技术专业
 
 
-学术论文（Publications）
+学术论文
 ======
 * **Dongbao Yang**, Yu Zhou, Xiaopeng Hong, Aoting Zhang, and Weiping Wang. “One-Shot Replay: Boosting incremental object detection via retrospecting one object.” AAAI, 2023. (CCF-A, Oral)
 * **Dongbao Yang**, Yu Zhou, Xiaopeng Hong, Aoting Zhang, Xin Wei, Linchengxi Zeng, Zhi Qiao, and Weiping Wang. “Pseudo object replay and mining for incremental object detection.” ACM MM, 2023. (CCF-A, Oral)
@@ -63,7 +63,7 @@ redirect_from:
 * Yudi Chen, Yu Zhou, **Dongbao Yang**, and Weiping Wang. “Constrained relation network for character detection in scene images.” PRICAI, 2019. (CCF-C)
 * Xugong Qin, Yu Zhou, **Dongbao Yang**, and Weiping Wang. “Curved text detection in natural scene images with semi-and weakly-supervised learning.” ICDAR, 2019. (CCF-C)
 
-科研项目（Projects）
+科研项目
 ======
 * 1)2025.01-2027.12，国家自然科学基金青年基金，开放环境下基于语言引导的增量目标检测技术研究，主持
 * 2)2022.12-2025.11，国家重点研发计划子课题，视听内容理解，主持
@@ -79,13 +79,13 @@ redirect_from:
 
 
 
-竞赛获奖（Competitions）
+竞赛获奖
 ======
 * 1)中国人工智能·多媒体信息识别技术竞赛，手写/印刷文本OCR两项高校组冠军，2019。
 * 2)ICDAR ReCTS 2019（中文招牌文字识别），“字符识别”、“端到端识别”高校组第三名，2019。
 
 
-发明专利（Patents）
+发明专利
 ======
 * 1)基于伪目标重放与挖掘的增量目标检测方法及装置，2023，受理号：202311216027.X
 * 2)基于单目标重放的增量目标检测方法及装置，2023，受理号：202310102438.X
@@ -99,7 +99,7 @@ redirect_from:
 * 10)基于完形填空任务的视频自监督学习方法, 2019，专利号：ZL 2019 1 1348018.X
 * 11)一种基于深度学习的图像哈希编码方法, 2017, 受理号：201710182659.7
 
-学术服务（Academic Services）
+学术服务
 ======
 * Reviewer: CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI ....
 * Area Chair: ICME
