@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+招生信息
+======
+* 拟招收26级统考硕士1名；
+* 欢迎对本方向感兴趣、且能保证投入时间的本科生联系我，一起开展科研工作；
+* 联系方式：yangdongbao@nankai.edu.cn或yangdongbao0903@163.com
+
 研究方向
 ======
-* **开放世界感知（Open-world Perception）**: Object detection and recognition in open-ended/unconstrained environments.
-* **自适应智能（Adaptive Intelligence）**: Continual Learning and lifelong adaptation for evolving data streams.
-* **多模态理解（Multimodal Understanding）**: Multimodal Sentiment Analysis and cross-modal content interpretation.
+* **开放世界感知（Open-world Perception）**: 研究非受限环境下的目标检测与识别；
+* **自适应智能（Adaptive Intelligence）**: 研究面向演化数据流的持续学习与自适应学习；
+* **多模态理解（Multimodal Understanding）**: 研究多模态情感分析与多模态内容理解。
 
 工作经历
 ======
