@@ -9,7 +9,7 @@ redirect_from:
 
 招生信息
 ======
-* 拟招收26级统考硕士1名；
+* 拟招收27级推免硕士1名；
 * 欢迎对本方向感兴趣、且能保证投入时间的本科生联系我，一起开展科研工作；
 * 联系方式：yangdongbao@nankai.edu.cn或yangdongbao0903@163.com
 
