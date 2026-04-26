@@ -61,7 +61,7 @@ redirect_from:
 * Weichao Zeng, Yan Shu, Zhenhang Li, **Dongbao Yang**, and Yu Zhou. “TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control.” NeurIPS, 2024. (CCF-A)
 * Yan Shu, Wei Wang, Yu Zhou, Shaohui Liu, Aoting Zhang, **Dongbao Yang**, and Weiping Wang. “Perceiving ambiguity and semantics without recognition: An efficient and effective ambiguous scene text detector.” ACM MM, 2023. (CCF-A)
 * Chenggang Yan, Hongtao Xie, **Dongbao Yang**, Jian Yin, Yongdong Zhang, and Qionghai Dai. “Supervised hash coding with deep neural network for environment perception of intelligent vehicles.” TITS, 2017. (中科院SCI一区, CCF-B)
-* Zhenhang Li, Yan Shu, Weichao Zeng, Dongbao Yang, and Yu Zhou. “First creating backgrounds then rendering texts: A new paradigm for visual text blending.” ECAI, 2024. (CCF-B)
+* Zhenhang Li, Yan Shu, Weichao Zeng, **Dongbao Yang**, and Yu Zhou. “First creating backgrounds then rendering texts: A new paradigm for visual text blending.” ECAI, 2024. (CCF-B)
 * **Dongbao Yang**, Hongtao Xie, Jian Yin, Yizhi Liu, Chenggang Yan. “Supervised deep quantization for efficient image search.” ICMEW, 2017.
 * Yudi Chen, Wei Wang, Yu Zhou, Fei Yang, **Dongbao Yang**, and Weiping Wang. “Self-training for domain adaptive scene text detection.” ICPR, 2021. (CCF-C)
 * Zhi Qiao, Yu Zhou, **Dongbao Yang**, Yucan Zhou, and Weiping Wang. “SEED: Semantics enhanced encoder-decoder framework for scene text recognition.” CVPR, 2020. (CCF-A)
