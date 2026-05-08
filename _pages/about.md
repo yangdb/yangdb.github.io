@@ -35,7 +35,7 @@ redirect_from:
 
 学术论文
 ======
-* Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Yu Zhou. “Focus, Align, and Sustain: Counteracting gradient dilution in incremental object detection.” ICML, 2026. (CCF-A)
+* Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Yu Zhou. “Focus, align, and sustain: Counteracting gradient dilution in incremental object detection.” ICML, 2026. (CCF-A)
 * Daiqing Wu, **Dongbao Yang***, Sicheng Zhao, Can Ma, and Yu Zhou. “Customizing visual emotion evaluation for MLLMs: An open-vocabulary, multifaceted, and scalable approach.” ICLR, 2026. (CCF-A)
 * Daiqing Wu, **Dongbao Yang***, Can Ma, and Yu Zhou. “EmoCaliber: Advancing reliable visual emotion comprehension via confidence verbalization and calibration.” PR, 2026. (中科院SCI一区, CCF-B)
 * Daiqing Wu, **Dongbao Yang***, Sicheng Zhao, Can Ma, and Yu Zhou. “An empirical study on configuring in-context learning demonstrations for unleashing MLLMs’ sentimental perception capability.” ICML, 2025. (CCF-A)
