@@ -35,10 +35,10 @@ redirect_from:
 
 学术论文
 ======
-* Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Yu Zhou. “Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection.” ICML, 2026. (CCF-A)
-* Daiqing Wu, **Dongbao Yang***, Sicheng Zhao, Can Ma, and Yu Zhou. “Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach.” ICLR, 2026. (CCF-A)
-* Daiqing Wu, **Dongbao Yang***, Can Ma, and Yu Zhou. “EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration.” PR, 2026. (中科院SCI一区, CCF-B)
-* Daiqing Wu, **Dongbao Yang***, Sicheng Zhao, Can Ma, and Yu Zhou. “An Empirical Study on Configuring In-Context Learning Demonstrations for Unleashing MLLMs’ Sentimental Perception Capability.” ICML, 2025. (CCF-A)
+* Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Yu Zhou. “Focus, Align, and Sustain: Counteracting gradient dilution in incremental object detection.” ICML, 2026. (CCF-A)
+* Daiqing Wu, **Dongbao Yang***, Sicheng Zhao, Can Ma, and Yu Zhou. “Customizing visual emotion evaluation for MLLMs: An open-vocabulary, multifaceted, and scalable approach.” ICLR, 2026. (CCF-A)
+* Daiqing Wu, **Dongbao Yang***, Can Ma, and Yu Zhou. “EmoCaliber: Advancing reliable visual emotion comprehension via confidence verbalization and calibration.” PR, 2026. (中科院SCI一区, CCF-B)
+* Daiqing Wu, **Dongbao Yang***, Sicheng Zhao, Can Ma, and Yu Zhou. “An empirical study on configuring in-context learning demonstrations for unleashing MLLMs’ sentimental perception capability.” ICML, 2025. (CCF-A)
 * Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Miao Shang, Yu Zhou. “DCA: Dividing and conquering amnesia in incremental object detection.” AAAI, 2025. (CCF-A)
 * Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Yu Zhou. “Specifying what you know or not for multi-label class-incremental learning.” AAAI, 2025. (CCF-A)
 * Daiqing Wu, **Dongbao Yang***,  Huawen Shen, Can Ma, and Yu Zhou. “Robust multimodal sentiment analysis of image-text pairs by distribution-based feature recovery and fusion.” PR, 2025. (中科院SCI一区)
