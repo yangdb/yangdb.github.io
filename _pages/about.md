@@ -35,17 +35,19 @@ redirect_from:
 
 学术论文
 ======
-* **Dongbao Yang**, Yu Zhou, Xiaopeng Hong, Aoting Zhang, and Weiping Wang. “One-Shot Replay: Boosting incremental object detection via retrospecting one object.” AAAI, 2023. (CCF-A, Oral)
-* **Dongbao Yang**, Yu Zhou, Xiaopeng Hong, Aoting Zhang, Xin Wei, Linchengxi Zeng, Zhi Qiao, and Weiping Wang. “Pseudo object replay and mining for incremental object detection.” ACM MM, 2023. (CCF-A, Oral)
-* **Dongbao Yang**, Yu Zhou, Aoting Zhang, Xurui Sun, Dayan Wu, Weiping Wang, and Qixiang Ye. “Multi-view correlation distillation for incremental object detection.” PR, 2022. (中科院SCI一区, CCF-B)
-* **Dongbao Yang**, Yu Zhou, Wei Shi, Dayan Wu, and Weiping Wang. “RD-IOD: Two-level residual-distillation-based triple-network for incremental object detection.” TOMM, 2022. (JCR SCI一区, CCF-B)
+* Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Yu Zhou. “Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection.” ICML, 2026. (CCF-A)
 * Daiqing Wu, **Dongbao Yang***, Sicheng Zhao, Can Ma, and Yu Zhou. “Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach.” ICLR, 2026. (CCF-A)
+* Daiqing Wu, **Dongbao Yang***, Can Ma, and Yu Zhou. “EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration.” PR, 2026. (中科院SCI一区, CCF-B)
 * Daiqing Wu, **Dongbao Yang***, Sicheng Zhao, Can Ma, and Yu Zhou. “An Empirical Study on Configuring In-Context Learning Demonstrations for Unleashing MLLMs’ Sentimental Perception Capability.” ICML, 2025. (CCF-A)
 * Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Miao Shang, Yu Zhou. “DCA: Dividing and conquering amnesia in incremental object detection.” AAAI, 2025. (CCF-A)
 * Aoting Zhang, **Dongbao Yang***, Chang Liu, Xiaopeng Hong, Yu Zhou. “Specifying what you know or not for multi-label class-incremental learning.” AAAI, 2025. (CCF-A)
 * Daiqing Wu, **Dongbao Yang***,  Huawen Shen, Can Ma, and Yu Zhou. “Robust multimodal sentiment analysis of image-text pairs by distribution-based feature recovery and fusion.” PR, 2025. (中科院SCI一区)
 * Daiqing Wu, **Dongbao Yang***, Yu Zhou, and Can Ma. “Bridging visual affective gap: Borrowing textual knowledge by learning from noisy image-text pairs.” ACM MM, 2024. (CCF-A, Oral)
 * Daiqing Wu, **Dongbao Yang***, Yu Zhou, and Can Ma. “Robust multimodal sentiment analysis of image-text pairs by distribution-based feature recovery and fusion.” ACM MM, 2024. (CCF-A)
+* **Dongbao Yang**, Yu Zhou, Xiaopeng Hong, Aoting Zhang, and Weiping Wang. “One-Shot Replay: Boosting incremental object detection via retrospecting one object.” AAAI, 2023. (CCF-A, Oral)
+* **Dongbao Yang**, Yu Zhou, Xiaopeng Hong, Aoting Zhang, Xin Wei, Linchengxi Zeng, Zhi Qiao, and Weiping Wang. “Pseudo object replay and mining for incremental object detection.” ACM MM, 2023. (CCF-A, Oral)
+* **Dongbao Yang**, Yu Zhou, Aoting Zhang, Xurui Sun, Dayan Wu, Weiping Wang, and Qixiang Ye. “Multi-view correlation distillation for incremental object detection.” PR, 2022. (中科院SCI一区, CCF-B)
+* **Dongbao Yang**, Yu Zhou, Wei Shi, Dayan Wu, and Weiping Wang. “RD-IOD: Two-level residual-distillation-based triple-network for incremental object detection.” TOMM, 2022. (JCR SCI一区, CCF-B)
 * Hongtao Xie, **Dongbao Yang***, Nannan Sun, Zhineng Chen, and Yongdong Zhang. “Automated pulmonary nodule detection in CT images using deep convolutional neural networks.” PR, 2019. (中科院SCI一区, CCF-B)
 * Wei Li, Dezhao Luo, **Dongbao Yang***, Zhenhang Li, Weiping Wang, and Yu Zhou. “The Role of Video Generation in Enhancing Data-Limited Action Understanding.” IJCAI, 2025. (CCF-A)
 * Gangyan Zeng, Yuan Zhang, Jin Wei, **Dongbao Yang***, Peng Zhang, Yiwen Gao, Xugong Qin, and Yu Zhou. “Focus, Distinguish, and Prompt: Unleashing CLIP for efficient and flexible scene text retrieval.” ACM MM 2024. (CCF-A)
