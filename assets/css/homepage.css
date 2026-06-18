@@ -1,0 +1,476 @@
+/* =====================================================
+   个人主页自定义样式（支持亮色/暗色模式）
+   ===================================================== */
+
+/* 减少首页顶部空白 */
+#main {
+  margin-top: 0.3em;
+}
+
+.page__inner-wrap > header {
+  display: none;
+}
+
+.page__content {
+  padding-top: 0;
+}
+
+.homepage-section:first-of-type {
+  margin-top: 0;
+}
+
+.homepage-section:first-of-type .homepage-section__title {
+  margin-top: 0;
+}
+
+.homepage-section {
+  margin-bottom: 2rem;
+}
+
+.homepage-section__title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--global-base-color, #2f7f93);
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid var(--global-border-color, #e8e8e8);
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.homepage-section__title i {
+  color: var(--global-link-color, #52adc8);
+  font-size: 1.3rem;
+}
+
+/* 招生信息高亮框 */
+.notice--recruit {
+  background: #fff8e6;
+  border-left: 5px solid #f89406;
+  border-radius: 6px;
+  padding: 0.8rem 1.2rem;
+}
+
+.notice--recruit ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.notice--recruit li {
+  margin-bottom: 0.25rem;
+  color: #5d4a1f;
+}
+
+.notice--recruit strong {
+  color: #c17800;
+}
+
+/* 研究方向卡片网格 */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.9rem;
+}
+
+.research-card {
+  background: var(--global-bg-color, #fff);
+  border: 1px solid var(--global-border-color, #e8e8e8);
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(47, 127, 147, 0.12);
+}
+
+.research-card__icon {
+  width: 48px;
+  height: 48px;
+  margin: 0 auto 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--global-thead-color, #eef6f8);
+  color: var(--global-base-color, #2f7f93);
+  font-size: 1.4rem;
+}
+
+.research-card h3 {
+  font-size: 1.05rem;
+  margin: 0 0 0.35rem 0;
+  color: var(--global-text-color, #333);
+}
+
+.research-card p {
+  font-size: 0.92rem;
+  color: var(--global-text-color-light, #666);
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* 经历时间线 */
+.timeline {
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 0.55rem;
+  padding-left: 1.2rem;
+  line-height: 1.45;
+  min-height: 3rem;
+}
+
+.timeline-item:last-child {
+  margin-bottom: 0;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -1.5rem;
+  top: 0.5rem;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--global-bg-color, #fff);
+  border: 2px solid var(--global-link-color, #52adc8);
+  z-index: 1;
+}
+
+.timeline-item::after {
+  content: '';
+  position: absolute;
+  left: -1.25rem;
+  top: 0.8125rem;
+  width: 0.125rem;
+  height: calc(100% + 0.3875rem);
+  background: var(--global-border-color, #d0e4e9);
+}
+
+.timeline-item:last-child::after {
+  display: none;
+}
+
+.timeline-item__time {
+  font-size: 0.85rem;
+  color: var(--global-base-color, #2f7f93);
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.05rem;
+}
+
+.timeline-item__title,
+.timeline-item__desc {
+  margin: 0 !important;
+  line-height: 1.35;
+}
+
+.timeline-item__title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--global-text-color, #333);
+}
+
+.timeline-item__desc {
+  font-size: 0.92rem;
+  color: var(--global-text-color-light, #666);
+}
+
+.two-column {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.two-column > .homepage-section {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+@media (max-width: 768px) {
+  .two-column {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+}
+
+/* 论文列表 */
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pub-list li {
+  padding: 0.65rem 0.85rem;
+  margin-bottom: 0.45rem;
+  background: var(--global-thead-color, #fafafa);
+  border-radius: 6px;
+  border-left: 3px solid var(--global-base-color, #2f7f93);
+  line-height: 1.5;
+  transition: background 0.2s ease;
+}
+
+.pub-list li:hover {
+  background: var(--global-border-color, #f0f7f9);
+}
+
+.pub-list li em {
+  font-style: normal;
+  font-weight: 600;
+  color: var(--global-text-color, #333);
+}
+
+.pub-venue {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #fff;
+  background: var(--global-base-color, #2f7f93);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  margin-right: 0.4rem;
+  white-space: nowrap;
+}
+
+.pub-level {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.12rem 0.45rem;
+  border-radius: 4px;
+  margin-right: 0.3rem;
+  white-space: nowrap;
+}
+
+.pub-level--a {
+  background: #e6f4ea;
+  color: #1e7e34;
+}
+
+.pub-level--b {
+  background: #e8f4f8;
+  color: #2f7f93;
+}
+
+.pub-level--c {
+  background: #f5f5f5;
+  color: #666;
+}
+
+.pub-level--q1 {
+  background: #fff3e0;
+  color: #c17800;
+}
+
+/* 项目列表 */
+.project-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.project-list li {
+  padding: 0.35rem 0.65rem;
+  margin-bottom: 0.3rem;
+  background: var(--global-bg-color, #fff);
+  border: 1px solid var(--global-border-color, #e8e8e8);
+  border-radius: 6px;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  line-height: 1.4;
+}
+
+.project-list li::before {
+  content: '\f0ae';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: var(--global-link-color, #52adc8);
+  margin-top: 0.15rem;
+  flex-shrink: 0;
+}
+
+.project-role {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.12rem 0.5rem;
+  border-radius: 4px;
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+
+.project-role--pi {
+  background: #e6f4ea;
+  color: #1e7e34;
+}
+
+.project-role--member {
+  background: #f5f5f5;
+  color: #666;
+}
+
+.project-time {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light, #888);
+  white-space: nowrap;
+}
+
+/* 竞赛获奖列表 */
+.award-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.award-list li {
+  position: relative;
+  padding: 0.4rem 0 0.4rem 1.6rem;
+  border-bottom: 1px dashed var(--global-border-color, #e8e8e8);
+  line-height: 1.45;
+  color: var(--global-text-color, #444);
+}
+
+.award-list li::before {
+  content: '\f091';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  color: #f89406;
+}
+
+.award-list li:last-child {
+  border-bottom: none;
+}
+
+.award-year {
+  display: inline-block;
+  font-size: 0.78rem;
+  color: var(--global-text-color-light, #888);
+  background: var(--global-thead-color, #f5f5f5);
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  margin-right: 0.4rem;
+}
+
+/* 专利列表 */
+.patent-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.patent-list li {
+  position: relative;
+  padding: 0.4rem 0 0.4rem 1.6rem;
+  border-bottom: 1px dashed var(--global-border-color, #e8e8e8);
+  line-height: 1.45;
+  color: var(--global-text-color, #444);
+}
+
+.patent-list li::before {
+  content: '\f15c';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  color: var(--global-link-color, #52adc8);
+}
+
+.patent-list li:last-child {
+  border-bottom: none;
+}
+
+.patent-year {
+  display: inline-block;
+  font-size: 0.78rem;
+  color: var(--global-text-color-light, #888);
+  background: var(--global-thead-color, #f5f5f5);
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  margin-right: 0.4rem;
+}
+
+/* 学术服务 */
+.service-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.service-list li {
+  padding: 0.35rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: var(--global-text-color, #444);
+}
+
+.service-list li i {
+  color: var(--global-base-color, #2f7f93);
+  width: 1.2rem;
+  text-align: center;
+}
+
+/* =====================================================
+   暗色模式覆盖
+   ===================================================== */
+html[data-theme="dark"] .notice--recruit {
+  background: #4a3f20;
+  border-left-color: #f0ad4e;
+}
+
+html[data-theme="dark"] .notice--recruit li,
+html[data-theme="dark"] .notice--recruit strong {
+  color: #f0e6cc;
+}
+
+html[data-theme="dark"] .research-card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+}
+
+html[data-theme="dark"] .pub-list li:hover {
+  background: var(--global-dark-border-color, #5a5a5a);
+}
+
+html[data-theme="dark"] .pub-level--a {
+  background: #1e3d29;
+  color: #8fd19e;
+}
+
+html[data-theme="dark"] .pub-level--b {
+  background: #1a3c47;
+  color: #7ecce0;
+}
+
+html[data-theme="dark"] .pub-level--c {
+  background: #3a3a3a;
+  color: #bbb;
+}
+
+html[data-theme="dark"] .pub-level--q1 {
+  background: #4a3518;
+  color: #f0c070;
+}
+
+html[data-theme="dark"] .project-role--pi {
+  background: #1e3d29;
+  color: #8fd19e;
+}
+
+html[data-theme="dark"] .project-role--member {
+  background: #3a3a3a;
+  color: #bbb;
+}
