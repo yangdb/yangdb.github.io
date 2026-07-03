@@ -95,6 +95,11 @@ redirect_from:
       Aoting Zhang, <em>Dongbao Yang</em>*, Chang Liu, Xiaopeng Hong, Yu Zhou. “Focus, align, and sustain: Counteracting gradient dilution in incremental object detection.”
     </li>
     <li>
+      <span class="pub-venue">ECCV 2026</span>
+      <span class="pub-level pub-level--a">CCF-B, THU-A</span><br>
+      Aoting Zhang, <em>Dongbao Yang</em>*, Chang Liu, Xiaopeng Hong, Can Ma, Yu Zhou. “Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection.”
+    </li>
+    <li>
       <span class="pub-venue">ICLR 2026</span>
       <span class="pub-level pub-level--a">CCF-A</span><br>
       Daiqing Wu, <em>Dongbao Yang</em>*, Sicheng Zhao, Can Ma, and Yu Zhou. “Customizing visual emotion evaluation for MLLMs: An open-vocabulary, multifaceted, and scalable approach.”
