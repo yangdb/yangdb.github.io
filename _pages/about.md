@@ -11,8 +11,8 @@ redirect_from:
   <h2 class="homepage-section__title"><i class="fas fa-user-graduate"></i> 招生信息</h2>
   <div class="notice--recruit">
     <ul>
-      <li>拟招收 <strong>2027 级推免硕士 1 名</strong>，具备较强自驱力与科研热情，以学位为终极目标者请飘过；</li>
-      <li>欢迎对本方向感兴趣、且能保证投入时间的本科生联系我，一起开展科研工作；</li>
+      <li>拟招收 <strong>2027 级推免硕士/直博 1 名</strong>，具备较强自驱力与科研热情，以学位为终极目标者请飘过；</li>
+      <li>欢迎对本方向感兴趣，并且能保证投入时间的本科生联系我，一起开展科研工作；</li>
       <li>联系方式：<strong>yangdongbao@nankai.edu.cn</strong> 或 <strong>yangdongbao0903@163.com</strong></li>
     </ul>
   </div>
