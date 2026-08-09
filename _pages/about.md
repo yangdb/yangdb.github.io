@@ -69,17 +69,17 @@ redirect_from:
       <div class="timeline-item">
         <span class="timeline-item__time">2020.09 — 2024.01</span>
         <p class="timeline-item__title">中国科学院大学 · 工学博士</p>
-        <p class="timeline-item__desc">网络空间安全专业</p>
+        <p class="timeline-item__desc">网络空间安全</p>
       </div>
       <div class="timeline-item">
         <span class="timeline-item__time">2015.09 — 2018.06</span>
         <p class="timeline-item__title">山东大学 · 工学硕士</p>
-        <p class="timeline-item__desc">计算机科学与技术专业</p>
+        <p class="timeline-item__desc">计算机科学与技术</p>
       </div>
       <div class="timeline-item">
         <span class="timeline-item__time">2011.09 — 2015.06</span>
         <p class="timeline-item__title">山东大学 · 工学学士</p>
-        <p class="timeline-item__desc">数字媒体技术专业</p>
+        <p class="timeline-item__desc">数字媒体技术</p>
       </div>
     </div>
   </section>
@@ -103,6 +103,11 @@ redirect_from:
       <span class="pub-venue">ICLR 2026</span>
       <span class="pub-level pub-level--a">CCF-A</span><br>
       Daiqing Wu, <em>Dongbao Yang</em>*, Sicheng Zhao, Can Ma, and Yu Zhou. “Customizing visual emotion evaluation for MLLMs: An open-vocabulary, multifaceted, and scalable approach.”
+    </li>
+    <li>
+      <span class="pub-venue">ACM MM 2026</span>
+      <span class="pub-level pub-level--a">CCF-A</span><br>
+      Yufei Feng, <em>Dongbao Yang</em>*, Aoting Zhang, Yichao Liu, and Yu Zhou. “H-Hub: Hierarchical domain-aware parameter adaptation for continual test-time object detection.”
     </li>
     <li>
       <span class="pub-venue">PR 2026</span>
