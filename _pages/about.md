@@ -318,17 +318,16 @@ redirect_from:
   <ul class="patent-list">
     <li><span class="patent-year">2026</span>一种基于正交知识刷新的域增量图像目标检测方法及系统，受理号：202611048253.5</li>
     <li><span class="patent-year">2026</span>一种基于梯度稀释抑制的增量目标检测方法及系统，受理号：202610836566.0</li>
-    <li><span class="patent-year">2023</span>基于伪目标重放与挖掘的增量目标检测方法及装置，受理号：202311216027.X</li>
-    <li><span class="patent-year">2023</span>基于单目标重放的增量目标检测方法及装置，受理号：202310102438.X</li>
+    <li><span class="patent-year">2023</span>基于伪目标重放与挖掘的增量目标检测方法及装置，专利号：ZL 2023 1 1216027.X</li>
     <li><span class="patent-year">2025</span>基于分治健忘症的增量目标检测方法和系统，受理号：202510190263.1</li>
     <li><span class="patent-year">2025</span>基于明确已知和未知知识的多标签类增量学习方法和系统，受理号：202510190260.8</li>
     <li><span class="patent-year">2024</span>基于对抗训练的场景文字识别方法及装置，受理号：202410434598.9</li>
-    <li><span class="patent-year">2023</span>基于掩模引导的去除印章噪声的图像生成方法及系统，受理号：202310733846.5</li>
-    <li><span class="patent-year">2020</span>基于语义强化编码器解码器框架的场景文字识别方法，受理号：202010416704.2</li>
+    <li><span class="patent-year">2023</span>基于掩模引导的去除印章噪声的图像生成方法及系统，专利号：ZL 2023 1 0733846.5</li>
+    <li><span class="patent-year">2020</span>基于语义强化编码器解码器框架的场景文字识别方法，专利号：ZL 2020 1 0416704.2</li>
     <li><span class="patent-year">2020</span>一种基于自训练的文本检测器训练方法及系统，专利号：ZL 2020 1 0428815.5</li>
     <li><span class="patent-year">2019</span>基于受限注意力模型的字符检测网络训练方法、字符检测方法和字符检测器，专利号：ZL 2019 1 0614874.9</li>
     <li><span class="patent-year">2019</span>基于完形填空任务的视频自监督学习方法，专利号：ZL 2019 1 1348018.X</li>
-    <li><span class="patent-year">2017</span>一种基于深度学习的图像哈希编码方法，受理号：201710182659.7</li>
+    <li><span class="patent-year">2017</span>一种基于深度学习的图像哈希编码方法，专利号：ZL 2017 1 0182659.7</li>
   </ul>
 </section>
 
@@ -336,7 +335,7 @@ redirect_from:
 <section class="homepage-section">
   <h2 class="homepage-section__title"><i class="fas fa-users"></i> 学术服务</h2>
   <ul class="service-list">
-    <li><i class="fas fa-pen-nib"></i><strong>Reviewer：</strong>CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI ...</li>
+    <li><i class="fas fa-pen-nib"></i><strong>Reviewer：</strong>CVPR, ICCV, ECCV, ICLR, AAAI, ACM MM, IJCAI ...</li>
     <li><i class="fas fa-chair"></i><strong>Area Chair：</strong>ICME</li>
   </ul>
 </section>
